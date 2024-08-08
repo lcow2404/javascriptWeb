@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Blender A",
+        "price": 49.99,
+        "description": "A great blender for everyday use.",
+        "image": "images/blender-a.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Blender B",
+        "price": 69.99,
+        "description": "A powerful blender for smoothies and more.",
+        "image": "images/blender-b.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Blender C",
+        "price": 89.99,
+        "description": "A professional-grade blender.",
+        "image": "images/blender-c.jpeg"
+    }
+]
